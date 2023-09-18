@@ -1,4 +1,4 @@
-const text = {};
+const text = { };
 
 function miNombre(nombre, apellido) {
    let  nombreCompleto = nombre[0].toUpperCase( ) + nombre.substring(1).toLowerCase( ) + " " + 
